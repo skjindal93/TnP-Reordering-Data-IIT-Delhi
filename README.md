@@ -1,7 +1,7 @@
 TnP-Reordering-Data-IIT-Delhi
 =============================
 
-A Chrome Plugin for Training and Placement Cell at IIT Delhi. Allows reordering of data in Resumes.
+A Chrome Plugin for Training and Placement Cell at IIT Delhi. Allows reordering of data and copy/paste in Resumes.
 
 ###Steps to follow
 1. Download the chrome extension from the repository.
