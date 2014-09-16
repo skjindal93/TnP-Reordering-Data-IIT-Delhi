@@ -1,0 +1,21 @@
+{
+  "name": "TnP Reordering Data",
+  "version": "2.0",
+  "manifest_version":2,
+  //"background_page": "background.html",
+  "browser_action": {
+    "name": "TnP Reordering Data",
+    "icons": ["icon.jpg"],
+    "default_icon": "icon.jpg"
+  },
+  "permissions": [
+    "tabs", "http://*/*","https://*/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": [ "http://*/*", "https://*/*"],
+      "js": ["jquery.js","myscript.js"],
+      "run_at": "document_end"
+    }
+  ]
+}
