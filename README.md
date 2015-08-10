@@ -11,6 +11,6 @@ A Chrome Plugin for Training and Placement Cell at IIT Delhi. Allows reordering 
 5. Enjoy!!
 
 ###How to reorder
-1. Just mention the sequence in the required order by commas separated and clink REORDER.
-2. Example: The sequence 3,2,1 will place 3rd block at first, 2nd block will remain at 2nd ans 1st block will go to 3rd.
+1. Just mention the sequence in the required order by commas separated and click REORDER.
+2. Example: The sequence 3,2,1 will place 3rd block at first, 2nd block will remain at 2nd and 1st block will go to 3rd.
 
