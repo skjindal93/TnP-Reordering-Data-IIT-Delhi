@@ -4,7 +4,7 @@ TnP-Reordering-Data-IIT-Delhi
 A Chrome Plugin for Training and Placement Cell at IIT Delhi. Allows reordering of data and copy/paste in Resumes.
 
 ###Steps to follow
-1. Download the chrome extension from the repository.
+1. Download the chrome extension from the repository. (No need if you already have .crx file downloaded)
 2. Open chrome://extensions in your browser.
 3. Drag and drop the TnP Reordering Data.crx file in chrome://extensions tab
 4. Click on "Add" accepting the permissions of extension.
