@@ -1,5 +1,5 @@
 var path = window.location.pathname;
-if (path=="/tnp/student/resume/intern.php" || path=="/tnp/student/resume/workex.php" || path=="/tnp/student/resume/proj.php" || path=="/tnp/student/resume/posrespon.php"){
+if (path=="/tnp/student/resume/intern.php" || path=="/tnp/student/resume/workex.php" || path=="/tnp/student/resume/proj.php" || path=="/tnp/student/resume/posrespon.php" || path=="/tnp/student/resume/extracurric.php"){
 
   $("#myDiv").before("<p>Order by Number Separated by Commas:</p>");
   $("#myDiv").before("<p>Example: If order is 2,1,5,6 then the boxes will get reordered in the mentioned sequence</p>" );
